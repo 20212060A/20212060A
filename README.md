@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Arturo Diaz
 - 👀 I’m interested in Research in Mechatronics Engineering
 - 🌱 I’m currently learning Programming
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on CHAISQUI II - UNI
 - 📫 How to reach me: arturo.diaz.o@uni.pe
 
 <!---
